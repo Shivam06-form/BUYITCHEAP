@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/buyitcheap/static/js/2.ef39b42f.chunk.js"
   },
   {
-    "revision": "74f53d0c6499bdfdcf0364e982b383f5",
+    "revision": "e1bda4ace1203e974301e17301ff47e5",
     "url": "/buyitcheap/index.html"
   }
 ];
