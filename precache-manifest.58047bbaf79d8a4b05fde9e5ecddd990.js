@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "83019d8aa46c439bf988",
+    "revision": "a0376fe62a29957c455b",
     "url": "/buyitcheap/static/css/main.2ae9a18e.chunk.css"
   },
   {
-    "revision": "83019d8aa46c439bf988",
-    "url": "/buyitcheap/static/js/main.f7861dc1.chunk.js"
+    "revision": "a0376fe62a29957c455b",
+    "url": "/buyitcheap/static/js/main.4efcc73f.chunk.js"
   },
   {
     "revision": "596d8d4fe214e9bf5626",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/buyitcheap/static/js/2.ef39b42f.chunk.js"
   },
   {
-    "revision": "439559cea9d023b4b07b0a316861bc44",
+    "revision": "0827eb0fafbb404c9f9beff985c64e27",
     "url": "/buyitcheap/index.html"
   }
 ];
