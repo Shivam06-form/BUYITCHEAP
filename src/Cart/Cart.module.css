@@ -1,0 +1,130 @@
+.cart{
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 2px;
+    border-radius: 20px;
+    position: top;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:1rem;
+}
+
+.cartImg{
+    margin-top: 8px;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    width: 8.9rem;
+    /* background-color:antiquewhite; */
+    font-size:1.1rem;
+   
+}
+
+.card{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background-color:blanchedalmond;
+    border-radius:20px;
+}
+.card h3{
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 12px;
+    width: 30%;
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:goldenrod;
+}
+.card h4{
+    text-align: center;
+    border: 5px solid black;
+    border-radius: 12px;
+    width: 40%;
+    /* margin-top: 2rem; */
+    margin-left: auto;
+    margin-right: auto;
+    background-color:goldenrod;
+}
+.card h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.CheckOut{
+   width: 24%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 2rem;
+}
+
+.CheckOut:hover{
+    background-color:green
+}
+
+.cart button:hover{
+    background-color:red;
+}
+
+.empty{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.card a {
+    text-decoration: none;
+    font-weight:bolder;
+    text-align:center;
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+    border: 1px solid red;
+    width: 20%;
+    background-color:aquamarine;
+    border-radius: 20px;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card a:hover {
+    background-color:lightgreen;
+    width:23%;
+    padding: 12px;
+    font-size: 1.5rem;
+}
+
+.card img {
+ width: 10%;   
+}
+
+
+
+@media screen and (max-width: 540px) {
+    .card{
+        padding: 2px;
+        position: top;
+        width: 100%;
+        margin-top:1rem;
+    }
+    .card button {
+        width: 70%;
+    }
+    .cart{
+     width: 100%;
+     background-color:white;
+    }
+    .empty{
+        width: 70%;
+        margin-bottom: 2rem;
+        margin-top: 2rem;
+    }
+    .card a{
+        width: 70%;
+    }
+}

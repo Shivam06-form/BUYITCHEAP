@@ -1,0 +1,35 @@
+.Disclimare{
+text-align: center;
+background-color:wheat;
+padding: 5rem;
+}
+
+.Disclimare h1{
+    text-align:left;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5rem;
+    margin-bottom: 8rem;
+    color:blue;
+}
+.Disclimare h6{
+    font-family: cursive;
+}
+
+@media screen and (max-width: 640px) {
+    .Disclimare{
+        width: 100%;
+    }
+    .Disclimare h1{
+       text-align:center;
+       font-size:3rem;
+       margin-right: 14rem;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .Disclimare h1{
+        text-align:center;
+        font-size:2rem;
+        margin-right: 14rem;
+     }
+}

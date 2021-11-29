@@ -1,0 +1,11 @@
+.qury{
+  position: fixed;
+  bottom: 0.5rem;
+  right: 0.5rem;
+}
+
+.qury form input{
+   position: fixed;
+   z-index: 999; 
+   display: inline;
+}

@@ -1,0 +1,28 @@
+.Info{
+    text-align: center;
+    background-color:white;
+    padding: 2rem;
+    }
+    .Info h4 {
+        margin-bottom:5rem;
+        position: top;
+        font-weight: bolder;
+        color:black;
+    }
+    
+    .Info P{
+        margin-top: 3rem;
+        color:black;
+    }
+    
+    .Info h6{
+        color:black;
+
+    }
+
+    @media screen and (max-width: 640px) {
+     .Info{
+         padding:4rem;
+         background-color:pink
+     }
+    }
