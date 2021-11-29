@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/%20BUYITCHEAP/precache-manifest.991739dde7291abf85ccc91f475fbfb6.js"
+  "/buyitcheap/precache-manifest.7686a593618acea9e41bbfaed0e17a13.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/%20BUYITCHEAP/index.html", {
+workbox.routing.registerNavigationRoute("/buyitcheap/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
