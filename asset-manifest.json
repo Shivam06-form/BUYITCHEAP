@@ -1,15 +1,15 @@
 {
-  "main.css": "/buyitcheap/static/css/main.2ae9a18e.chunk.css",
-  "main.js": "/buyitcheap/static/js/main.ef52752c.chunk.js",
-  "main.js.map": "/buyitcheap/static/js/main.ef52752c.chunk.js.map",
+  "main.css": "/buyitcheap/static/css/main.aa06467d.chunk.css",
+  "main.js": "/buyitcheap/static/js/main.5abad1ef.chunk.js",
+  "main.js.map": "/buyitcheap/static/js/main.5abad1ef.chunk.js.map",
   "runtime~main.js": "/buyitcheap/static/js/runtime~main.844f3370.js",
   "runtime~main.js.map": "/buyitcheap/static/js/runtime~main.844f3370.js.map",
   "static/css/2.c169221f.chunk.css": "/buyitcheap/static/css/2.c169221f.chunk.css",
-  "static/js/2.ef39b42f.chunk.js": "/buyitcheap/static/js/2.ef39b42f.chunk.js",
-  "static/js/2.ef39b42f.chunk.js.map": "/buyitcheap/static/js/2.ef39b42f.chunk.js.map",
+  "static/js/2.45d7739b.chunk.js": "/buyitcheap/static/js/2.45d7739b.chunk.js",
+  "static/js/2.45d7739b.chunk.js.map": "/buyitcheap/static/js/2.45d7739b.chunk.js.map",
   "index.html": "/buyitcheap/index.html",
-  "precache-manifest.a61e58d81e8d90895d9c1b74c77b7766.js": "/buyitcheap/precache-manifest.a61e58d81e8d90895d9c1b74c77b7766.js",
+  "precache-manifest.3b3dbe4d55e82566288923f8c73f982a.js": "/buyitcheap/precache-manifest.3b3dbe4d55e82566288923f8c73f982a.js",
   "service-worker.js": "/buyitcheap/service-worker.js",
   "static/css/2.c169221f.chunk.css.map": "/buyitcheap/static/css/2.c169221f.chunk.css.map",
-  "static/css/main.2ae9a18e.chunk.css.map": "/buyitcheap/static/css/main.2ae9a18e.chunk.css.map"
+  "static/css/main.aa06467d.chunk.css.map": "/buyitcheap/static/css/main.aa06467d.chunk.css.map"
 }
